@@ -1,1 +1,2 @@
-# react-vite-css-module
+<h2>Motivation</h2>
+Check how css modules is working in vite. It the same as in create-react-app check e.g <a href='https://www.youtube.com/watch?v=l-1aWnkk6rA'>here</a>
